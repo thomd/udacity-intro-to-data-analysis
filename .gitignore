@@ -1,0 +1,4 @@
+venv
+test.ipynb
+.ipynb_checkpoints/
+numpy_pandas_cheatsheet.pdf
